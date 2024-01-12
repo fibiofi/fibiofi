@@ -15,9 +15,9 @@ Thankyou..✌️
 
 ## Education:
 
-#### 1. [Universitas Islam Negeri Jakarta][https://www.uinjkt.ac.id/id] | Bachelor of Computer Science | Jakarta`
+#### 1. [Universitas Islam Negeri Jakarta] [https://www.uinjkt.ac.id/id] | Bachelor of Computer Science | Jakarta`
    
- #### 2. [SMK Fatahillah-IT] [https://www.smkfatahillahcileungsi.sch.id/](https://www.smkfatahillahcileungsi.sch.id/) | Software Engineering | Cileungsi-Bogor 
+ #### 2. [SMK Fatahillah-IT] [https://www.smkfatahillahcileungsi.sch.id/] | Software Engineering | Cileungsi-Bogor 
   
 
 ## Work Experience:
