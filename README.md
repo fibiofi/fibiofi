@@ -23,24 +23,24 @@ Thankyou..✌️
 ## Work Experience:
 #### 1. [Ministry of Education, Culture, Research and Technology] (https://www.kemdikbud.go.id) | Information Systems Intern | South Jakarta (January 2021 - May 2021)
 
-● System Administration: Manage and maintain the SIMPEG system, including system configuration, user 
+- System Administration: Manage and maintain the SIMPEG system, including system configuration, user 
 access control.
-● Data Management: Ensuring the accuracy, integrity and availability of personnel data in the SIMPEG 
+- Data Management: Ensuring the accuracy, integrity and availability of personnel data in the SIMPEG 
 system. Including data entry, data update, data backup and data cleaning.
-● Prepare Personnel Reports: Prepare regular reports on personnel data, statistics, and other relevant 
+- Prepare Personnel Reports: Prepare regular reports on personnel data, statistics, and other relevant 
 information for management and official reporting purposes.
-● Reporting and Analysis: Generate regular and ad-hoc reports from the SIMPEG system, analyze personnel 
+- Reporting and Analysis: Generate regular and ad-hoc reports from the SIMPEG system, analyze personnel 
 data, and provide insights and recommendations based on the analyzed data.
 
 #### 2. [National Zakat Amil Agency (BAZNAS)] (https://www.baznas.go.id) | Administrator | East Jakarta (April 2023 – July 2023)
 
-● Campaign Planning: Collaborate with marketing or communications teams to plan and strategize 
+- Campaign Planning: Collaborate with marketing or communications teams to plan and strategize 
 WhatsApp blast campaigns. Identify the target audience, campaign objectives and key messages.
-● Database Management: Manage and manage contact database for WhatsApp blast campaigns. Ensure 
+- Database Management: Manage and manage contact database for WhatsApp blast campaigns. Ensure 
 accurate and up-to-date contact information.
-● Content Creation: Developing engaging and persuasive content for WhatsApp blast messages, including 
+- Content Creation: Developing engaging and persuasive content for WhatsApp blast messages, including 
 text, images, videos or links. Follow brand guidelines and maintain consistency in message delivery.
-● Message Broadcast: Use WhatsApp's marketing tools or platforms to send bulk messages to target 
+- Message Broadcast: Use WhatsApp's marketing tools or platforms to send bulk messages to target 
 audiences. Ensure compliance with WhatsApp's terms of service and regulations regarding bulk 
 messaging.
 
@@ -52,8 +52,8 @@ messaging.
 - Certified Inernational Supply Chain Associate (2017)
 - Certified International Business Intelligence Associate (2018) : CIBIA 18.09.004857 Training held by 
 Purchasing and Supply Association (Singapore)
-Certified International Project Management Associate (2019)
-Certified International Specialist Data visualization (2019) : 20112019.CDA.CISDV.0494. Training Held 
+- Certified International Project Management Associate (2019)
+- Certified International Specialist Data visualization (2019) : 20112019.CDA.CISDV.0494. Training Held 
 by Cybertrend Academy Data
 
 ### Languages and Tools:
@@ -71,10 +71,10 @@ by Cybertrend Academy Data
 ### More Contact Person:
 
 Social Media
-Instagram : @fibiofi
-Link Linkdln
+- Instagram : @fibiofi
+- Link Linkdln
 https://www.linkedin.com/in/khusnul-alifah-118685193/
-Link Resume
+- Link Resume
 https://fibiofi.weebly.com/
-Link Gmail / Whatsapp
+- Link Gmail / Whatsapp
 fibiofi3@gmai.com / https://wa.me/+6287773631123
