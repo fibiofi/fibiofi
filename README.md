@@ -15,12 +15,10 @@ Thankyou..✌️
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. [Universitas Islam Negeri Jakarta][https://www.uinjkt.ac.id/id] | Bachelor of Computer Science | Jakarta`
+   
+ #### 2. [SMK Fatahillah-IT] [https://www.sman1kebumen.sch.id](https://www.smkfatahillahcileungsi.sch.id/) | Rekayasa Perangkat Lunak | Cileungsi-Bogor 
+  
 
 ## Work Experience:
 #### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
